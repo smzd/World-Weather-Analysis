@@ -1,4 +1,4 @@
-                                                       # World-Weather-Analysis
+                                             # World-Weather-Analysis
 
 This project is based on retrieving weather and hotel data using weather and google API. 
 
