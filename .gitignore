@@ -1,7 +1,7 @@
-#adding api key ignore and dsstore
+#adding api key ignore 
 config.py
 .env
-.DS_Store
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -24,6 +24,8 @@ lib64/
 parts/
 sdist/
 var/
+# .DS_Store
+.DS_Store
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
