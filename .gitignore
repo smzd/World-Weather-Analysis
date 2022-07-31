@@ -1,6 +1,7 @@
-#adding api key ignore
+#adding api key ignore and dsstore
 config.py
 .env
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
